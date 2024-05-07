@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T09:04:26.224Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="wbxhJrQLbzlVwnhjy790" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T09:15:58.372Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VzkV0VbcGFkIVo8ZMqUp" version="24.3.1" type="github">
   <diagram name="Page-1" id="dJem1rOX-Gj0SNFo-lAc">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UIV77PlQxVx6c74F6xhk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UIV77PlQxVx6c74F6xhk-1" target="UIV77PlQxVx6c74F6xhk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIV77PlQxVx6c74F6xhk-1" value="AirBnb - airbnb2&lt;br&gt;Booking.com - bookingCom&lt;br&gt;Manual - manual&lt;br&gt;Expedia -&amp;nbsp;expedia&lt;br&gt;Homeaway2 -&amp;nbsp;homeaway2&lt;br&gt;&lt;div&gt;HVBM -&amp;nbsp;homesVillasByMarriott&lt;/div&gt;&lt;div&gt;Plum guide -&amp;nbsp;plumGuide&lt;/div&gt;&lt;div&gt;rentals united -&amp;nbsp;rentalsUnited&lt;br&gt;travelStaytion -&amp;nbsp;travelStaytion&lt;br&gt;tripAdvisor -&amp;nbsp;tripAdvisor&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UIV77PlQxVx6c74F6xhk-3" value="OTAs / Platforms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="18" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UIV77PlQxVx6c74F6xhk-4" value="65cd754017d75d001755021f&lt;div&gt;65d4a34d826fd6001a6e208c&lt;br&gt;65964dccd3b2cf2b72d6de30&lt;br&gt;65f4d438b534960013b94129&lt;br&gt;65e699fd40e53d001363ee43&lt;br&gt;&lt;/div&gt;&lt;div&gt;65de5d24f4e24d00109b2666&lt;br&gt;&lt;/div&gt;&lt;div&gt;6603f8dd8a794500485853eb&lt;br&gt;&lt;/div&gt;&lt;div&gt;65b14e67ca855100125fb501&lt;br&gt;65630c44cba8df001363fa42&lt;br&gt;65378be3f0badf0033677ac0&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UIV77PlQxVx6c74F6xhk-5" value="Sample Reservation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
